@@ -1,0 +1,20 @@
+
+   
+{
+	"name": "token2",
+	"symbol": "token2",
+	"seller_fee_basis_points": 0,
+	"image": "https://i.imgur.com/8QDA7Sg.jpeg",
+	"properties": {
+		"files": [{
+			"uri": "https://i.imgur.com/8QDA7Sg.jpeg",
+			"type": "image/jpeg"
+
+		}],
+		"category": "image",
+		"creators": [{
+			"address": "J4ZAviVq6rmABa2toYi7pMq4yYPSgfrz23qyCkMWctrg",
+			"share": 100
+		}]
+	}
+}
