@@ -4,10 +4,10 @@
 	"name": "token3",
 	"symbol": "token3",
 	"seller_fee_basis_points": 0,
-	"image": "https://i.imgur.com/aHANEmW.png",
+	"image": "https://i.imgur.com/otZBogx.png",
 	"properties": {
 		"files": [{
-			"uri": "https://i.imgur.com/aHANEmW.png",
+			"uri": "https://i.imgur.com/otZBogx.png",
 			"type": "image/png"
 
 		}],
